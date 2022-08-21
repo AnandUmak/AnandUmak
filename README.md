@@ -28,7 +28,7 @@
 
 - 📫 Reach out to me: [Linkedin](https://www.linkedin.com/in/anandumak/)
 
-- ✍ You can find my resume here [Resume]
+- ✍ You can find my resume here [Resume](https://drive.google.com/file/d/13Nx0Ya5jGC20rFRgHOG-5yxYUip1e7xJ/view?usp=sharing)
 <br>
 <h2>
 🚀 My Tech Stack:

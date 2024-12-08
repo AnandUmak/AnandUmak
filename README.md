@@ -49,11 +49,7 @@
 ## 📊 Github Stats
  <br>
  <p align="center" dir="auto">
-  
-<a href="https://github.com/AnandUmak"><img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=AnandUmak&theme=gruvbox&hide_border=true"/></a>
-<a href="https://github.com/AnandUmak"><img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=AnandUmak&show_icons=true&theme=gruvbox&hide_border=true"/></a>
-   
-<a href="https://github.com/AnandUmak"><img src="https://activity-graph.herokuapp.com/graph?username=AnandUmak&custom_title=Anand's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545" alt="GitHub Commits Graph" /></a>
+![Leetcode Stats](https://leetcard.jacoblin.cool/Anand_Umak?ext=heatmap)
  </p>
 <br>
 <br>

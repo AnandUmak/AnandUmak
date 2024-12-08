@@ -18,13 +18,13 @@
 </h2>
 <br>
 <p><img align="right" alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif"/></p>
-- :telescope: I’m currently working on <b> Analytical Skills</b>.
+- :telescope: I’m currently working on <b> Development Skills</b>.
 
-- 🌱 I’m currently learning <b> Data Analytics</b>.
+- 🌱 I’m currently learning <b> Java Development</b>.
 
 - :man_technologist: All of my projects are available at [GitHub](https://github.com/AnandUmak?tab=repositories)
 
-- 👀 I’m looking to forward to be succesful Data Analyst
+- 👀 I’m looking to forward to be succesful SDE
 
 - 📫 Reach out to me: [Linkedin](https://www.linkedin.com/in/anandumak/)
 

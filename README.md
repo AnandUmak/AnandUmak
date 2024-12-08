@@ -46,7 +46,7 @@
 <br>
 <br>
 
-## 📊 Github Stats
+## 📊 Lee Stats
  <br>
  <p align="center" dir="auto">
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Anand_Umak?ext=heatmap)
